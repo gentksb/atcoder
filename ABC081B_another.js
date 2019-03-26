@@ -1,5 +1,7 @@
 'use strict'
 
+//他の人の履歴アレンジ
+
 function Main(input){
 	const tmpInput = input.split("\n")
 	let inputArr = tmpInput[1].split(" ")
