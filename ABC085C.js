@@ -23,11 +23,11 @@ function Main(input){
           let extraYen = extraYen_I - 1000*HideyoCount;
           if(extraYen!==0){continue}
             console.log(YukichiCount+" "+IchiyoCount+" "+HideyoCount)
-            return 0
+            return ""
       }
   }
   console.log(NoAnswer)
-  return 0
+  return ""
 }
 
 
