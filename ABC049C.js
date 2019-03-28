@@ -1,7 +1,7 @@
 'use strict'
 
 function Main(input){
-  let baseStr = input.toString();
+  let baseStr = input.toString().trim();
   const str1 = "dreamer"
   const str2 = "dream"
   const str3 = "eraser"
